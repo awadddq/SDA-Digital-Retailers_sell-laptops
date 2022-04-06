@@ -1,0 +1,468 @@
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\csc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\vbc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Content\MyMainLayOut.css
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\OnlineShoppingStore.dll.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Antlr3.Runtime.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Newtonsoft.Json.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\PayPal.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Helpers.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Optimization.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\WebGrease.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Newtonsoft.Json.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\PagedList.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\PayPal.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Helpers.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Optimization.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\obj\Debug\DigitalRetailers.csproj.AssemblyReference.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\obj\Debug\DigitalRetailers.csproj.CoreCompileInputs.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\obj\Debug\DigitalRetailers.csproj.CopyComplete
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\csc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\vbc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\VBCSCompiler.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Content\MyMainLayOut.css
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.dll.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Antlr3.Runtime.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.SqlServer.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Newtonsoft.Json.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PayPal.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Helpers.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Optimization.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Deployment.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\WebGrease.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Newtonsoft.Json.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PayPal.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Helpers.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Optimization.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Antlr3.Runtime.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.SqlServer.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.AssemblyReference.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CoreCompileInputs.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CopyComplete
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - Copy\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\csc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\vbc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\VBCSCompiler.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Content\MyMainLayOut.css
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.dll.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Antlr3.Runtime.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.SqlServer.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Newtonsoft.Json.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PayPal.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Helpers.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Optimization.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Deployment.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\WebGrease.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Newtonsoft.Json.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PayPal.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Helpers.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Optimization.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Antlr3.Runtime.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.SqlServer.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.AssemblyReference.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CoreCompileInputs.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CopyComplete
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce - backup2\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\csc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\vbc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\VBCSCompiler.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Content\MyMainLayOut.css
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\OnlineShoppingStore.dll.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Antlr3.Runtime.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\EntityFramework.SqlServer.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Newtonsoft.Json.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\PagedList.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\PagedList.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\PayPal.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Helpers.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Optimization.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.WebPages.Deployment.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.WebPages.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.WebPages.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\WebGrease.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Newtonsoft.Json.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\PagedList.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\PagedList.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\PayPal.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Helpers.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Optimization.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.WebPages.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\System.Web.WebPages.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Antlr3.Runtime.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\EntityFramework.SqlServer.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.AssemblyReference.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CoreCompileInputs.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CopyComplete
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\obj\Debug\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\backup\2\DigitalRetailers\obj\Debug\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\csc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\vbc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\VBCSCompiler.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Content\MyMainLayOut.css
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.dll.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Antlr3.Runtime.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.SqlServer.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Newtonsoft.Json.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PayPal.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Helpers.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Optimization.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Deployment.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\WebGrease.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Newtonsoft.Json.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PagedList.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\PayPal.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Helpers.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Optimization.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\System.Web.WebPages.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Antlr3.Runtime.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\EntityFramework.SqlServer.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.AssemblyReference.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CoreCompileInputs.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CopyComplete
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\Ecommerce_Part18\DigitalRetailers\obj\Debug\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\csc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\vbc.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\VBCSCompiler.exe
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Content\MyMainLayOut.css
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\OnlineShoppingStore.dll.config
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\OnlineShoppingStore.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Antlr3.Runtime.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\EntityFramework.SqlServer.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Newtonsoft.Json.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Owin.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\PagedList.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\PagedList.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\PayPal.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Helpers.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Mvc.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Optimization.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.WebPages.Deployment.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.WebPages.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.WebPages.Razor.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\WebGrease.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Newtonsoft.Json.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\PagedList.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\PagedList.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\PayPal.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Helpers.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Mvc.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Optimization.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.WebPages.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.WebPages.Deployment.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\System.Web.WebPages.Razor.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Antlr3.Runtime.pdb
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\EntityFramework.SqlServer.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.AssemblyReference.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CoreCompileInputs.cache
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\obj\Debug\DigitalRetailers.csproj.CopyComplete
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\obj\Debug\OnlineShoppingStore.dll
+C:\Users\awad\Downloads\ASP.NET MVC Ecommerce\SDA-Digital-Retailers\DigitalRetailers\obj\Debug\OnlineShoppingStore.pdb
